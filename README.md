@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, I’m Jules Gatete<br><br>I’m a **Software Engineering student** passionate about building **impact-driven web and AI solutions**.<br><br>🌍 Rwanda<br>🎓 BSc in Computer Software Engineering<br>🚀 Always learning & building<br><br>---<br><br>### 🔧 Tech Stack<br><br>* **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS<br>* **Backend:** Django, FastAPI, Supabase<br>* **AI / ML:** Python, Machine Learning basics<br>* **Databases:** PostgreSQL, MySQL<br><br>---<br><br>### 🤝 Let’s Connect<br><br>* Open to internships & collaborations<br>* Growth mindset | Impact-focused
+👋 Hi, I’m Jules Gatete<br><br>I’m a **Software Engineering student** passionate about building **impact-driven web and AI solutions**.<br><br>🌍 Rwanda<br>🎓 BSc in Computer Software Engineering<br>🚀 Always learning & building<br><br>* **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS<br>* **Backend:** Django, FastAPI, Supabase<br>* **AI / ML:** Python, Machine Learning basics<br>* **Databases:** PostgreSQL, MySQL<br><br> **🤝 Let’s Connect** <br><br>* Open to work & collaborations<br>* Growth mindset | Impact-focused
 
 
 ## 🌐 Socials:
